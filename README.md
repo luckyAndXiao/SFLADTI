@@ -3,7 +3,7 @@
 ## Framework
 ![SFLADTI](./fig/SFLADTI.png)
 
-Our code mainly references [DrugBAN](https://github.com/peizhenbai/DrugBAN) and [FLatten Transformer]([https://github.com/LeapLabTHU/FLatten-Transformer]).
+Our code mainly references [DrugBAN](https://github.com/peizhenbai/DrugBAN) and [FLatten Transformer](https://github.com/LeapLabTHU/FLatten-Transformer).
 
 ## System Requirements
 ```
